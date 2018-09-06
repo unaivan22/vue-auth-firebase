@@ -4,6 +4,8 @@ import Router from 'vue-router'
 import Hello from '@/components/Hello'
 import Login from '@/components/Login'
 import SignUp from '@/components/SignUp'
+// import Navbar from '@/components/Navbar'
+// import Sidenav from '@/components/Sidenav'
 import firebase from 'firebase'
 
 Vue.use(Router)
